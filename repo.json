@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0.0",
+  "repository": "color-hdr-metadata-tools",
+  "state": "LOCAL_READY",
+  "publisher": {
+    "name": "SHAR Production",
+    "website": "https://sharprod.com/"
+  },
+  "assets": [
+    {
+      "asset_id": "shar-pe400-w09-175",
+      "slug": "color-space-metadata-checker",
+      "title": "Color Space Metadata Checker",
+      "title_ru": "Проверка метаданных цветового пространства",
+      "family": "color_hdr",
+      "purpose": "Checks primaries, transfer, matrix and range declarations.",
+      "purpose_ru": "Проверяет primaries, transfer, matrix и диапазон сигнала.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    },
+    {
+      "asset_id": "shar-pe400-w09-176",
+      "slug": "hdr-sdr-trim-pass-register",
+      "title": "HDR SDR Trim Pass Register",
+      "title_ru": "Реестр HDR/SDR trim pass",
+      "family": "color_hdr",
+      "purpose": "Checks HDR masters for linked SDR trims and approval evidence.",
+      "purpose_ru": "Проверяет HDR-мастеры на связанные SDR trim и доказательства согласования.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    }
+  ]
+}
