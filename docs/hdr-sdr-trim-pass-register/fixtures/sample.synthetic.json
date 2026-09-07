@@ -1,0 +1,10 @@
+{
+  "masters": [
+    {
+      "id": "HDR1",
+      "sdrTrim": "SDR1",
+      "approved": true,
+      "evidence": "approval-1"
+    }
+  ]
+}

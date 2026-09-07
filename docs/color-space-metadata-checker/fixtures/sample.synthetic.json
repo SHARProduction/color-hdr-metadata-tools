@@ -1,0 +1,17 @@
+{
+  "required": {
+    "primaries": "BT.709",
+    "transfer": "BT.1886",
+    "matrix": "BT.709",
+    "range": "limited"
+  },
+  "files": [
+    {
+      "id": "master",
+      "primaries": "BT.709",
+      "transfer": "BT.1886",
+      "matrix": "BT.709",
+      "range": "limited"
+    }
+  ]
+}
